@@ -1,3 +1,3 @@
 # CabListener
-An assignment that required me to use an interface and a listener.
-They would show the user a message when it was time for the cab to recieve maintenance and disappear only when it did. 
+Takes in a number of cabs with different gas tank sizes, names, mileages and adds them to the cab list.
+All operations done in the program are done with these respective values in mind.
